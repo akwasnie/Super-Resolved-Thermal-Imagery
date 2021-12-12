@@ -1,0 +1,3 @@
+[submodule "deeply-recursive-cnn-tf"]
+	path = deeply-recursive-cnn-tf
+	url = https://github.com/jiny2001/deeply-recursive-cnn-tf.git
